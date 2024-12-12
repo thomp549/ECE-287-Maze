@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at maze_top.v(108): object "time_start" differs only in case from object "TIME_START" in the same scope File: M:/MAZE_GAME/maze_top.v Line: 108
+Info (10281): Verilog HDL Declaration information at maze_top.v(109): object "time_stop" differs only in case from object "TIME_STOP" in the same scope File: M:/MAZE_GAME/maze_top.v Line: 109
+Info (10281): Verilog HDL Declaration information at maze_top.v(107): object "time_end" differs only in case from object "TIME_END" in the same scope File: M:/MAZE_GAME/maze_top.v Line: 107
+Warning (10268): Verilog HDL information at vga_driver.v(60): always construct contains both blocking and non-blocking assignments File: M:/MAZE_GAME/vga_driver.v Line: 60
+Info (10281): Verilog HDL Declaration information at timer.v(3): object "rst" differs only in case from object "RST" in the same scope File: M:/MAZE_GAME/timer.v Line: 3
