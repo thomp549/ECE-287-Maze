@@ -1,0 +1,25 @@
+module timer (
+	input clk,
+	
+	
+	
+	
+	
+	output reg score,
+	
+
+
+);
+
+/* counters for each minute second and milisecond */
+
+reg [7:0] minute_count;
+reg [7:0] seconds_count;
+reg [7:0] miliseconds_count;
+
+
+
+
+
+
+endmodule
