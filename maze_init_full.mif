@@ -1,0 +1,88 @@
+-- Copyright (C) 2024  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and any partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details, at
+-- https://fpgasoftware.intel.com/eula.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=1;
+DEPTH=14400;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=UNS;
+
+CONTENT BEGIN
+	[0..120]  :   1;
+	[121..238]  :   0;
+	[239..240]  :   1;
+	[241..358]  :   0;
+	[359..360]  :   1;
+	[361..478]  :   0;
+	[479..480]  :   1;
+	[481..598]  :   0;
+	[599..600]  :   1;
+	[601..718]  :   0;
+	[719..720]  :   1;
+	[721..806]  :   0;
+	807    :   1;
+	[808..838]  :   0;
+	[839..840]  :   1;
+	[841..926]  :   0;
+	927    :   1;
+	[928..958]  :   0;
+	[959..960]  :   1;
+	[961..1046]  :   0;
+	1047   :   1;
+	[1048..1078]  :   0;
+	[1079..1080]  :   1;
+	[1081..1166]  :   0;
+	1167   :   1;
+	[1168..1198]  :   0;
+	[1199..1200]  :   1;
+	[1201..1286]  :   0;
+	1287   :   1;
+	[1288..1406]  :   0;
+	1407   :   1;
+	[1408..1526]  :   0;
+	1527   :   1;
+	[1528..1646]  :   0;
+	1647   :   1;
+	[1648..1766]  :   0;
+	1767   :   1;
+	[1768..1886]  :   0;
+	1887   :   1;
+	[1888..2006]  :   0;
+	2007   :   1;
+	[2008..7617]  :   0;
+	[7618..7631]  :   1;
+	[7632..8017]  :   0;
+	[8018..8023]  :   1;
+	[8024..8025]  :   0;
+	[8026..8031]  :   1;
+	[8032..9226]  :   0;
+	[9227..9231]  :   1;
+	[9232..9234]  :   0;
+	[9235..9239]  :   1;
+	[9240..9599]  :   0;
+	[9600..9623]  :   1;
+	[9624..9736]  :   0;
+	[9737..9738]  :   1;
+	9739   :   0;
+	[9740..9741]  :   1;
+	9742   :   0;
+	9743   :   1;
+	[9744..10095]  :   0;
+	[10096..10103]  :   1;
+	[10104..14278]  :   0;
+	[14279..14399]  :   1;
+END;
